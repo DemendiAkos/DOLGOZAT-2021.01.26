@@ -1,0 +1,79 @@
+body { 
+    background-color: #808080;
+    text-align: justify;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+div {
+    background-color: #ADD8E6;
+    width: 960px;
+    padding: 30px;
+    margin: auto;
+    padding-bottom: 40px;
+}
+
+h1 {
+    text-align: center;
+    margin-bottom: 0px;
+}
+
+hr {
+   border: 3px solid blue;
+   padding-top: 3px;
+   border-left: none;
+   border-right: none;
+}
+
+h2 {
+    text-transform: uppercase;
+    color: #00008B;
+    border-top: 2px #00008B solid;
+    border-bottom: 2px #00008B dotted;
+    margin-right: 40%;
+}
+
+.right_pic {
+    width: 200px;
+    float: right;
+    margin: 20px;
+    border: 10px solid #00008B;
+    margin-bottom: 0px;
+    margin-top: 0px;
+}
+.right_pic2{
+    width: 200px;
+    float: right;
+    margin: 20px;
+    border: 10px solid #00008B;
+    margin-top: 0;
+    margin-bottom: 5px;
+}
+
+li{
+    list-style-image: url(kukac.png);
+    margin-left: 10%;
+}
+
+.right_pic_bottom {
+    width: 200px;
+    border: 10px solid #00008B;
+    float: right;
+    margin-left: 20px;
+}
+
+.left_pic {
+    width: 200px;
+    border: 10px solid #00008B;
+    float: left;
+    margin-right: 20px;
+}
+
+.forrás {
+    font-style: italic;
+    padding-left: 500px;
+    margin-top: 0px;
+}
+
+a:hover {
+    color: #00008B;
+}
